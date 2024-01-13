@@ -12,5 +12,8 @@
 [03_create_table_ivr_detail.sql](./03_create_table_ivr_detail.sql) 
 
 ## 4 . Creación de tabla ivr_summary en BigQuery utilizando como base ivr_detail
-[04_create_table_ivr_summary.sql](./04_create_table_ivr_summary.sql) 
+[04_create_table_ivr_summary.sql](./04_create_table_ivr_summary.sql)
+
+## 5 . Creación de funcion clean integer en BigQuery
+[05_create_function_clean_integer.sql](./05_create_function_clean_integer.sql) 
 
