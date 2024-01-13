@@ -1,5 +1,8 @@
 # KeepCoding-IA-I-SQL-Data-WareHousing-Practice
 
+## 0 . Archivo con los enunciados de las prácticas a realizar
+[Práctica Advanced SQL.pdf](./Práctica%20Advanced%20SQL.pdf) 
+
 # Práctica SQL y DW
 
 ## 1 . Diagrama entidad relación
